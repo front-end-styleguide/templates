@@ -47,6 +47,8 @@
     "nyc": "^11.4.1",
     "stylelint": "^8.4.0",
     "stylelint-config-sass-guidelines": "^4.0.1",
+    "stylelint-order": "^0.8.0",
+    "stylelint-scss": "^2.2.0",
     "testcafe": "^0.18.5"
   },
   "engines": {
