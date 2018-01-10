@@ -4,3 +4,7 @@ Desktop.ini
 .DS_Store
 ._*
 *~
+
+node_modules
+yarn.lock
+package-lock.json
