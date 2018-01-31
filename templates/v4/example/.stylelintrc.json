@@ -5,7 +5,6 @@
       "severity": "warning"
     }],
     "declaration-no-important": true,
-    "declaration-property-value-blacklist": null,
     "max-nesting-depth": [3, {
       "severity": "warning"
     }],
@@ -13,8 +12,11 @@
     "no-unknown-animations": true,
     "order/properties-alphabetical-order": null,
     "scss/dollar-variable-colon-space-after": "always-single-line",
+    "selector-max-compound-selectors": [3, {
+      "severity": "warning"
+    }],
     "selector-class-pattern": ["^[a-z0-9\\_-]+$", {
-      "message": "Selector should be written in lowercase with hyphens"
+      "message": "Selector should be written in lowercase with hyphens or underscores"
     }],
     "selector-nested-pattern": ["^(?!(&__)|(&--)).+", {
       "message": "Creating BEM classes with Sass nesting is not allowed"
