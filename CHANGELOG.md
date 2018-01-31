@@ -2,6 +2,17 @@
 
 
 
+## 1.3.0
+2018-01-31
+
+### Improved
+- [v4] Move test files closer to source files
+
+### Updated
+- [v4] stylelint config
+
+
+
 ## 1.2.0
 2018-01-10
 
