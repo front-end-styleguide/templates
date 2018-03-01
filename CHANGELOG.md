@@ -2,6 +2,14 @@
 
 
 
+## 1.3.1
+2018-03-01
+
+### Updated
+- [v4] Dependencies
+
+
+
 ## 1.3.0
 2018-01-31
 
@@ -36,7 +44,7 @@
 2017-11-04
 
 ### Updated
-- [v4] template for newest core v4.4.0
+- [v4] Template for newest core v4.4.0
 
 
 
